@@ -1,0 +1,122 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Final Van",
+      "victory": true,
+      "category": [],
+      "requires": "|Tear| AND |Tear's Pendant| AND |Sword of Lorelei| AND |Jewel of Lorelei|"
+    },
+    {
+      "name": "Fabre Manor Guy's Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fabre Manor Far N/E Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fabre Manor Duke's Room Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Apple Gel",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Orange Gel",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Life Bottle",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Cape",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley 300 Gald",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley 400 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Apple Gel",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Orange Gel",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods 500 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods S Flag",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": "|Mieu Fire|"
+    },
+    {
+      "name": "Cheagle Woods Magic Lens",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": "|Mieu Fire|"
+    },
+    {
+      "name": "Cheagle Woods Orange Gel 2",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": "|Mieu Fire|"
+    },
+    {
+      "name": "Cheagle Woods Life Bottle",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": "|Mieu Fire|"
+    },
+    {
+      "name": "Liger Queen",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Life Bottle 2",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Cutlass",
+      "category": [],
+      "requires": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Baticul": {
+    "starting": false,
+    "connects_to": [],
+    "requires": "|Baticul|"
+  },
+  "Tataroo Valley": {
+    "connects_to": [],
+    "requires": "|Tataroo Valley|"
+  },
+  "Engave": {
+    "connects_to": [],
+    "requires": "|Engave|"
+  },
+  "Cheagle Woods": {
+    "connects_to": [],
+    "requires": "|Cheagle Woods|"
+  }
+}
