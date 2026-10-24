@@ -1,0 +1,159 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Baticul": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Tataroo Valley": {
+    "connects_to": [],
+    "requires": "|Tataroo Valley|",
+    "starting": false
+  },
+  "Engave": {
+    "connects_to": [],
+    "requires": "",
+    "starting": true
+  },
+  "Cheagle Woods": {
+    "connects_to": [],
+    "requires": "|Cheagle Woods|",
+    "starting": false
+  },
+  "Fubras River": {
+    "connects_to": [],
+    "requires": "|Fubras River|"
+  },
+  "Kaitzur": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Choral Castle": {
+    "connects_to": [],
+    "requires": "|Choral Castle|"
+  },
+  "Kaitzur Naval Port": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Chesedonia": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Abandoned Factory": {
+    "connects_to": [],
+    "requires": "|Abandoned Factory|"
+  },
+  "Desert Oasis": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Zao Ruins": {
+    "connects_to": [],
+    "requires": "|Zao Ruins|"
+  },
+  "Yulia City": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Belkend": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Ortion Cave": {
+    "connects_to": [],
+    "requires": "|Ortion Cave|"
+  },
+  "Aramis Spring": {
+    "connects_to": [],
+    "requires": "|Aramis Spring|"
+  },
+  "Daath": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Oracle Headquarters": {
+    "connects_to": [],
+    "requires": "|Oracle Headquarters|"
+  },
+  "Keterburg Bay": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Keterburg": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Theor Forest": {
+    "connects_to": [],
+    "requires": "|Theor Forest|"
+  },
+  "Port Sheridan": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Sheridan": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Meggiora Highlands": {
+    "connects_to": [],
+    "requires": "|Meggiora Highlands|"
+  },
+  "Shurrey Hill": {
+    "connects_to": [],
+    "requires": "|Shurrey Hill|"
+  },
+  "Inista Marsh": {
+    "connects_to": [],
+    "requires": "|Inista Marsh|"
+  },
+  "Grand Chokma": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Mt Zaleho": {
+    "connects_to": [],
+    "requires": "|Mt Zaleho|"
+  },
+  "Mt Roneal": {
+    "connects_to": [],
+    "requires": "|Mt Roneal|"
+  },
+  "Absorption Gate": {
+    "connects_to": [],
+    "requires": "|Absorption Gate|"
+  },
+  "Isle of Feres": {
+    "connects_to": [],
+    "requires": "|Isle of Feres|"
+  },
+  "Tower of Rem": {
+    "connects_to": [],
+    "requires": "|Tower of Rem|"
+  },
+  "Radiation Gate": {
+    "connects_to": [],
+    "requires": "|Radiation Gate|"
+  },
+  "Eldrant": {
+    "connects_to": [],
+    "requires": "|Eldrant|"
+  },
+  "Nam Cobana Isle": {
+    "connects_to": [],
+    "requires": "|Dark Wing Badge|"
+  }
+}

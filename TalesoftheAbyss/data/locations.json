@@ -1,0 +1,3099 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Final Van",
+      "victory": true,
+      "category": [],
+      "requires": "|Tear| AND |Tear's Pendant| AND |Sword of Lorelei| AND |Jewel of Lorelei|",
+      "region": "Eldrant"
+    },
+    {
+      "name": "Fabre Manor Guy's Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fabre Manor Far N/E Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fabre Manor Duke's Room Cabinet",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Apple Gel",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Orange Gel",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Life Bottle",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Cape",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley 300 Gald",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley 400 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Apple Gel",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Orange Gel",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods 500 Gald",
+      "category": [],
+      "requires": "",
+      "region": "Cheagle Woods"
+    },
+    {
+      "name": "Cheagle Woods S Flag",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Magic Lens",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Orange Gel 2",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Life Bottle",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Liger Queen",
+      "category": [],
+      "requires": "",
+      "region": "Cheagle Woods"
+    },
+    {
+      "name": "Cheagle Woods Life Bottle 2",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Cheagle Woods Cutlass",
+      "category": [],
+      "requires": "",
+      "region": "Cheagle Woods"
+    },
+    {
+      "name": "Fubras River Apple Gel",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Magic Lens",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River 500 Gald",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Apple Gel 2",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Iron Mail",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River 800 Gald",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Bracelet",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Fubras River",
+      "name": "Fubras River Orange Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Life Bottle",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Choral Castle",
+      "name": "Choral Castle Sage",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Life Bottle",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Life Bottle 2",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Choral Castle",
+      "name": "Apple Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Chain Mail",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Silk Robe",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Shakujo",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle 1000 Gald",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle 1600 Gald",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Arietta/Liger/Hresvelgr",
+      "category": [],
+      "requires": "",
+      "region": "Choral Castle"
+    },
+    {
+      "name": "Sword Dancer #1",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaitzur Naval Port Orange Gel",
+      "region": "Kaitzur Naval Port",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaitzur Naval Port Iron Bracelet",
+      "region": "Kaitzur Naval Port",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Astor's Manor Time Traveling Hero Doll",
+      "region": "Chesedonia",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaiser Dist R",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory 3000 Gald",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Magic Lens",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Apple Gel",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Apple Gel 2",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Orange Gel",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Cobalt Chamber",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Life Bottle",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Panacea Bottle",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Feather Cloak",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abaddon",
+      "category": [],
+      "requires": "",
+      "region": "Abandoned Factory"
+    },
+    {
+      "name": "Zao Ruins 2400 Gald",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Apple Gel",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Orange Gel",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Panacea Bottle",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Life Botle",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Carmine Chamber",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Cobalt Chamber",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Wing Bottle",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Breast Guard",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Stre Forte",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sync and Largo",
+      "category": [],
+      "requires": "",
+      "region": "Zao Ruins"
+    },
+    {
+      "name": "Legretta",
+      "category": [],
+      "requires": "",
+      "region": "Zao Ruins"
+    },
+    {
+      "name": "Asch",
+      "category": [],
+      "requires": "",
+      "region": "Yulia City"
+    },
+    {
+      "name": "Yulia City Deck Brush",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Belkend",
+      "name": "Belkend Orange Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belkend Dark Seal",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belkend Warrior Maden",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Ortion Cave Life Bottle",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Ortion Cave Grass Chamber",
+      "category": [],
+      "requires": "",
+      "region": "Ortion Cave"
+    },
+    {
+      "name": "Ortion Cave Ruby Wand",
+      "category": [],
+      "requires": "",
+      "region": "Ortion Cave"
+    },
+    {
+      "name": "Ortion Cave Nimble Rapier",
+      "category": [],
+      "requires": "",
+      "region": "Ortion Cave"
+    },
+    {
+      "name": "Ancylopolyp",
+      "category": [],
+      "requires": "",
+      "region": "Ortion Cave"
+    },
+    {
+      "name": "Yulia City Scild Forte",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring 6000 Gald",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Carmine Chamber",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Panacea Bottle",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Pineapple Gel",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Silver Mail",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Nimble Rapier",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring Yellow Ribbon",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Daath",
+      "name": "Daath Espirit Forte",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Prelude",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters 5500 Gald",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters 6500 Gald",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Lemon Gel",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Miracle Gel",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Carmine Chamber",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Carmine Chamber 2",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Green Ribbon",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Cobalt Chamber",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Oracle Headquarters",
+      "name": "Oracle Headquarters Life Bottle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Melange Gel",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Syrup Bottle",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Paritsan",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Silver Cloak",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Silver Guard",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Balla Forte",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oracle Headquarters Noble Thief",
+      "region": "Oracle Headquarters",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Keterburg Bay",
+      "name": "Keterburg Bay Pineapple Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Keterburg Bay",
+      "name": "Keterburg Bay Stun Bracelet",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Bay Rebirth Doll",
+      "region": "Keterburg Bay",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Keterburg Bay",
+      "name": "Keterburg Bay 5000 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Keterburg",
+      "name": "Keterburg Hourglass",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Keterburg",
+      "name": "Keterburg Alca Forte",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sword Dancer #2",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest 4800 Gald",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest 5500 Gald",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Magic Lens",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Lemon Gel",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Life Bottle 1",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Life Bottle 2",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Panacea Bottle",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Sage",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Grass Chamber",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Silver Bracelet",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Half Guard",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest Silver Sword",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Theor Forest All-Purpose Knife",
+      "region": "Theor Forest",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Chesedonia",
+      "name": "Chesodonia Lollipop",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Chesedonia",
+      "name": "Chesodonia Lemon Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Chesedonia",
+      "name": "Chesodonia 5000 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaiser Dist Rx",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Port Sheridan Apple Gel",
+      "region": "Port Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Port Sheridan All Divide",
+      "region": "Port Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Port Sheridan Holy Ring",
+      "region": "Port Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Port Sheridan",
+      "name": "Port Sheridan 5000 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Sheridan",
+      "name": "Sheridan Savory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Demon Seal",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan 3000 Gald",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Weak Bottle",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Wasier Rapier",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Battlesuit",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Mystic Cloak",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands 6800 Gald",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Blade Rex",
+      "category": [],
+      "requires": "",
+      "region": "Meggiora Highlands"
+    },
+    {
+      "name": "Shurrey Hill 12000 Gald",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Lemon Gel",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Pineapple Gel",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Cure Bottle",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Carmine Chamber",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Dinei Bottle",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Specific",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Panacea Bottle",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Light Plate",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Hunting Cap",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Battle Guard",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Shurrey Hill Scild Maggiore",
+      "region": "Shurrey Hill",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tyrannopian",
+      "category": [],
+      "requires": "",
+      "region": "Shurrey Hill"
+    },
+    {
+      "name": "Zao Ruins Pineapple Gel",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Lemon Gel",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins Wing Bottle",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Ruins 7650 Gald",
+      "region": "Zao Ruins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh 5600 Gald",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh 3200 Gald",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh Talwar",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Inista Marsh",
+      "name": "Inista Marsh Knight Helm",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh Mystic Rod",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh Drain Ward",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh Knight Guard",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Inista Marsh Mirage Robe",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Behemoth",
+      "region": "Inista Marsh",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belkend Poison Ward",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Peony's Chamber Stre Meggiore",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley 7500 Gald",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley 6000 Gald",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley Carmine Chamber",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley Pineapple Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Lemon Gel",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Life Bottle",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Wing Bottle",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Panacea Bottle",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Purple Ribbon",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Silk Hat",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Knight Mace",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Knight Robe",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Mirage Gloves",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Aqua Cape",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley Alca Maggiore",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Uniceros",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Theor Forest",
+      "name": "Theor Forest Cators Bow",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Daath",
+      "name": "Daath Melange Gel",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Red Savory",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Killer Bow",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Epee",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokma Lost Celesti",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sync",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands 4800 Gald",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands 7200 Gald",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Melange Gel",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Sunlight Chamber",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Miracle Gel",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Katana",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Royal Guard",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Hamayumi",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Full Plate",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Duel Helm",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Battle Axe",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Meggiora Highlands Marcato",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Repair Fonbot",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Wing Bottle",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Cobalt Chamber",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Arc Wand",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Druid Cloak",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Strecido",
+      "region": "Meggiora Highlands",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Lemon Gel",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Wing Bottle",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Pineapple Gel 1",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Pineapple Gel 2",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Panacea Bottle",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Dinei Bottle",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Treat",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Aquamarine",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Mythril Guard",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Battle Bow",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Nocercido",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Legretta, Arietta, and Largo",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate 12000 Gald",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate 20000 Gald",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Pineapple Gel 1",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Pineapple Gel 2",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Red Basil",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Treat",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Grass Chamber",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Carmine Chamber",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Special Gel",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Tartan Ribbon",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Mythril Cloak",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Ancient Ribbon",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Mighty Saber",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate War Hammer",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Rare Protector",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Strike Eagle",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Rare Bracelet",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Van",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "St Binah Blood Pain",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Melange Gel",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Life Bottle 1",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Life Bottle 2",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Cobalt Chamber",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Pineapple Gel",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Sunlight Chamber",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Carmine Chamber",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Flare Cape",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Rare Circlet",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Lunar Guard",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho  Do Sanga",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Zaleho Silver and White",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fyr Bronco",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Pineapple Gel 1",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Pineapple Gel 2",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Wing Bottle",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Melange Gel",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Apple Gel 1",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Apple Gel 2",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Magic Lens",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Red Lavender",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Sunlight Chamber",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Hourglass",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Rare Guard",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Schwarzvogel",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Mythril Circlet",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Rebirth Doll",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Persain Boots",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Isle of Feres Lebhaft",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sword Dancer #3",
+      "region": "Isle of Feres",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Final Arietta",
+      "region": "Cheagle Woods",
+      "category": [],
+      "requires": "|Anise|"
+    },
+    {
+      "name": "Tower of Rem Melange Gel",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Grass Chamber",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Lottery Gel",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Red Chamomile",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Pineapple Gel",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Schwarzloewe",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Elder Robe",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Ancient Ribbon",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tower of Rem",
+      "name": "Tower of Rem Longinus",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tower of Rem Scildecido",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaiser Dist XX",
+      "region": "Tower of Rem",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Absorption Gate Red Savory",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Cobalt Chamber",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Carmine Chamber",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Absorption Gate Ballacido",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Final Largo",
+      "region": "Absorption Gate",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Radiation Gate Red Saffron",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Treat",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Sunlight Chamber",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Cobalt Chamber",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Star Rod",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Elder Cloak",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Lunatito",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mohs",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Cobalt Chamber",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Special Gel 1",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Special Gel 2",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Red Sage",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Treat",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Lance",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Robe",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Rod",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Mace",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Mail",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Guard",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Blade",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Helm",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Arrow",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Bracelet",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Hat",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Crest",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Cloak",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Sword",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Fonic Gloves",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Unicorn Horn",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Grandioz",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Final Legretta",
+      "region": "Eldrant",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Final Asch",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Final Sync",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 2",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 3",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 4",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 5",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 6",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 7",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 8",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 9",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 10",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 11",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 12",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 13",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 14",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 15",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 16",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 17",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 18",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 19",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 20",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 21",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 22",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 23",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 24",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 25",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 26",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 27",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 28",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 29",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 30",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 31",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 32",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 33",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 34",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 35",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 36",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 37",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 38",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 39",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 40",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 41",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 42",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 43",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 44",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 45",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 46",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 47",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 48",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 49",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 50",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 51",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 52",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 53",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 54",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 55",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 56",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 57",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 58",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 59",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Level 60",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Engeve's Spaghetti",
+      "region": "Engave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "category": [],
+      "requires": "",
+      "name": "Batical's Speak with Pere",
+      "region": "Baticul"
+    },
+    {
+      "name": "Batical's Guy''s Artes",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Batical's Arcate Arte Book 1",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Baticul",
+      "name": "Batical's Sigmund Tactician",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Desert Oasis Guy's Artes",
+      "region": "Desert Oasis",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Chesedonia's Make 5 items at Din's Shop",
+      "region": "Chesedonia",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Search Point 1",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 2",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 3",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 4",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 5",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 6",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 7",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 8",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 9",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 10",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 11",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 12",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 13",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 14",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 15",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 16",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 17",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 18",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 19",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Search Point 20",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaitzur Guy's Artes",
+      "region": "Kaitzur",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Yulia City Ramen",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Yulia City Character Disc",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Yulia City Tear's Holy Song",
+      "region": "Yulia City",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Daath Prelude",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Pizza",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Sushi",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Guy's Artes",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Keterburg Bay Warehouse Cleanup",
+      "region": "Keterburg Bay",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Bay Salad",
+      "region": "Keterburg Bay",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Enter Casino",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Anise|"
+    },
+    {
+      "name": "Keterburg Labyrinth Mansion 1",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Keterburg Waitress Minigame",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Keterburg Childhood Manor",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Keterburg Skit Viewer",
+      "region": "Keterburg",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Curry",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Warehouse Cleanup",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Guy's Artes",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Grand Chokmah Forbidden Spells",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Port Belkend Warehouse Cleanup",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belken Guy's Artes",
+      "region": "Belkend",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Port Sheridan Warehouse Cleanup",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Blacksmith",
+      "region": "Sheridan",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Sheridan Udon Noodles",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Music Box House",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Yulia City Arcane Arte Book 2",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Purity",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Aramis Spring King's Portrait",
+      "region": "Aramis Spring",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Choral Castle Requiem",
+      "region": "Choral Castle",
+      "category": [],
+      "requires": "|King's Portrait|"
+    },
+    {
+      "name": "Belkend Egg Bowl",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tataroo Valley Where It All Began",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Tataroo Valley Mieu Wing",
+      "region": "Tataroo Valley",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "Tataroo Valley",
+      "name": "Tataroo Valley Cake",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Baticul Proud Maid",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Tear| AND |Natalia|"
+    },
+    {
+      "name": "Baticul Arcane Arte Books",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Baticul A Princess's Duty",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Luke's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tear's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Jade's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Anise's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Anise|"
+    },
+    {
+      "name": "Guy's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Natalia's Beginner Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Luke's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Tear's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Jade's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Guy's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Anise's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Anise|"
+    },
+    {
+      "name": "Natalia's Advance Solo Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Party Beginner Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Party Advance Coliseum",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Maid Minigame 2",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Keterburg Labyrinth Mansion 2",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Daath Catalyst Weapon 1",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Noble Thief",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Catalyst Weapon 2",
+      "region": "Daath",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Yulia City Arcane Arte Book",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah's Waterfall",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Guy's Final Arte",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Keterburg Arcane Arte Book",
+      "region": "Keterburg",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Barrel Breaker",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "St. Binah Onion Soup",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Chesedonia Lawman",
+      "region": "Chesedonia",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Upgraded Flightstone",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Baticul Jewel of Gardios 2",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Baticul Berserker",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Fonic Sight 1",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Find the Rappigs",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Engeve's Monsters",
+      "region": "Engave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "St Binah's Blood Pain",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "St Binah Forbidden Spells",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg's Forbidden Spells",
+      "region": "Keterburg",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Labryinth Mansion 3",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Keterburg Toast",
+      "region": "Keterburg",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Keterburg Spa",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Keterburg Spa Pass|"
+    },
+    {
+      "name": "Keterburg Spa 2",
+      "region": "Keterburg",
+      "category": [],
+      "requires": "|Keterburg Spa Pass|"
+    },
+    {
+      "name": "Chesedonia Good Spirits",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": "|Keterburg Spa Pass|"
+    },
+    {
+      "name": "Chesedonia Forbidden Spells",
+      "region": "Chesedonia",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Kaitzur Navel Port Forbidden Spells",
+      "region": "Kaitzur Naval Port",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belkend Replica Research",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Belkend Forbidden Spells",
+      "region": "Belkend",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Blacksmith 2",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Forbidden Spells",
+      "region": "Sheridan",
+      "category": [],
+      "requires": "|Jade|"
+    },
+    {
+      "name": "Sheridan Fonic Sight 2",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Rocket Tower",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Bay Natalia's Healing Force",
+      "category": [],
+      "requires": "|Natalia|"
+    },
+    {
+      "name": "Mt. Zaleho Upgraded Meiu Fire",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": "|King's Portrait|"
+    },
+    {
+      "name": "Mt. Zaleho Silver and White",
+      "region": "Mt Zaleho",
+      "category": [],
+      "requires": "|King's Portrait|"
+    },
+    {
+      "name": "Mt Roneal Upgraded Flightstone",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Vorpal Sword",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal 15000 Gald",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Red Lavender",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal 7000 Gald",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Mt Roneal Refined Flight Stone",
+      "region": "Mt Roneal",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Zao Desert Gigantic Worm",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Nam Cobanda Isle Comedy",
+      "region": "Nam Cobana Isle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Nam Cobanda Isle Anime Cutscene Viewer",
+      "region": "Nam Cobana Isle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Nam Cobanda Isle Cat Cat Kitty Cat",
+      "region": "Nam Cobana Isle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Nam Cobanda Isle Star of Malkuth",
+      "region": "Nam Cobana Isle",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Sunlight Chamber",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned Factory Holy Quelquatl",
+      "region": "Abandoned Factory",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Cheagle Rescue Holy Seal",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Specific",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Wing Bottle",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Nectar Bottle",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Red Chamomile",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Cowboy Hat",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Oriton Cavern Cheagle Rescue Dark Seal",
+      "region": "Ortion Cave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Sheridan Blacksmith 3",
+      "region": "Sheridan",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Grand Chokmah Fonic Sight 2",
+      "region": "Grand Chokma",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Engeve Hard Worker",
+      "region": "Engave",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Stone Monument Pilgrimage",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Tear's Judgement",
+      "region": "Daath",
+      "category": [],
+      "requires": "|Tear|"
+    },
+    {
+      "name": "Baticul Jewel of Gardios 3 ",
+      "region": "Baticul",
+      "category": [],
+      "requires": "|Guy|"
+    },
+    {
+      "name": "Baticul Viscount",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Baticul Largo's Past 1",
+      "region": "Baticul",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Yulia City Reflection",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Stew",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Radiation Gate Forbidden Spells",
+      "region": "Radiation Gate",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Heart of Chaos",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Little Devil",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Forbidden Spells",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Daath Arcane Arte Book",
+      "region": "Daath",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Yulia City Forbidden Spells",
+      "region": "Yulia City",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Fubras River Forbidden Spells",
+      "region": "Fubras River",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Eldrant Unicorn Horn",
+      "region": "Eldrant",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Gelda Nebilim",
+      "victory": true,
+      "category": [],
+      "requires": "|Nebilim| AND |Lost Celesti| AND |Blood Pain| AND |Holy Quelquati| AND |Heart of Chaos| AND |Unicorn Horn|"
+    }
+  ]
+}

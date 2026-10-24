@@ -1,7 +1,7 @@
 name: WitchyMikiri
 description: Default template created by the Manual Builder tool
 
-game: Manual_TalesoftheAbyss_WitchyMikiri
+game: TalesoftheAbyss
 
 Manual_TalesoftheAbyss_WitchyMikiri:
     progression_balancing: 50

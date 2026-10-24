@@ -1,0 +1,2429 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "11",
+      "name": "Apple Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Tear",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Pendant",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword of Lorelei",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jewel of Lorelei",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jade",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guy",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Anise",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tataroo Valley",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "7",
+      "name": "Lemon Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Cape",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cheagle Woods",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "7",
+      "name": "Orange Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "5",
+      "name": "Magic Lens",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "15",
+      "name": "Life Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "S Flag",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spaghetti",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fubras River",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kaitzur",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Choral Castle",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Iron Mail",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "2",
+      "name": "Sage",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Chain Mail",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silk Robe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shakujo",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Iron Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Abandoned Factory",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "8",
+      "name": "Cobalt Chamber",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "8",
+      "name": "Panacea Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Feather Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Zao Ruins",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "6",
+      "name": "Wing Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "8",
+      "name": "Carmine Chamber",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Breast Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stre Forte",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gothic Mace",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Steel Bow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Warrior Maiden",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Seal",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ortion Cave",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "5",
+      "name": "Grass Chamber",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ruby Wand",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nimble Rapier",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Scild Forte",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Aramis Spring",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "11",
+      "name": "Pineapple Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Mail",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nimble Rapier",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Yellow Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Espirit Forte",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Prelude",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Oracle Headquarters",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Miracle Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Green Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "6",
+      "name": "Melange Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Syrup Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Partisan",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Balla Forte",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Noble Thief",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stun Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rebirth Doll",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "2",
+      "name": "Hourglass",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Alca Forte",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Theor Forest",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Half Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Sword",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "All-Purpose Knife",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lollipop",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "All-Divide",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Holy Ring",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Savory",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Demon's Seal",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Meggiora Highlands",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Weak Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Wasier Rapier",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Battlesuit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mystic Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shurrey Hill",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cure Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Dinei Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "2",
+      "name": "Specific",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Light Plate",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hunting Cap",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Battle Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Scild Maggior",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Inista Marsh",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Talwar",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knight Helm",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mystic Rod",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Drain Ward",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knight Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mirage Robe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Poison Ward",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Empty Girl",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Wing Badge",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stre Meggiore",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cators Bow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Purple Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silk Hat",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knight Mace",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knight Robe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mirage Gloves",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Aqua Cape",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Alca Maggiore",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Red Savory",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Killer Bow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lost Celesti",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Epee",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "5",
+      "name": "Sunlight Chamber",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Katana",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Royal Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hamayumi",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Full Plate",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Duel Helm",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Battle Axe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Marcato",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mt Zaleho",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Arc Wand",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Druid Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Strecido",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mt Roneal",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Treat",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Aquamarine",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mythril Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Battle Bow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nocercido",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Absorption Gate",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Basil",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Special Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Tartan Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mythril Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mighty Saber",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "War Hammer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rare Protector",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Strike Eagle",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rare Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blood Pain",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Flare Cape",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rare Circlet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lunar Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Do Sanga",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silver and White",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Isle of Feres",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Lavender",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Rare Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Schwarzvogel",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mythril Circlet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rebirth Doll",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ultimatus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Persain Boots",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lebhart",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tower of Rem",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lottery Gel",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "2",
+      "name": "Red Chamomile",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Schwarzloewe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Elder Robe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Ribbon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Longinus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Scildecido",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Red Saffron",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Radiation Gate",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Star Rod",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Elder Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lunatito",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Eldrant",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Sage",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Lance",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Robe",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Rod",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Mace",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Mail",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Helm",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Arrow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Bracelet",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Hat",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Crest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Cloak",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Sword",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fonic Gloves",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Unicorn Horn",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grandioz",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "20",
+      "name": "Progressive +2500 Gald Shop Limit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Backstep",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Recover",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Critical Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Overlimit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Taunt",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Special",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Combo Force",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Power Charge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Critical Up",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Heavy Hit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "3",
+      "name": "AD Progressive Ad Combo",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Guard Plus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Rear Guard 1",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Void Attack",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Immunity",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Endure",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Critical Magic",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Lucky End",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Heavy Magic",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Lucky Magic",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Speed Cast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Magic Charge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Void Magic",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Resist",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Anti-Element",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Magic Guard Plus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Stat Boost",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Life Up",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Spirit Healer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Life Healer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Mind Up",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD HP Recovery",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD TP Recovery",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Dash",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Run Away!",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Comeback",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Item Pro",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD O.L. Boost",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Landing",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Quick Turn",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Aerial Jump",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Rebound",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Jump Combo",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD C. Combo",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Counter",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD E. Plus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Flash",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Step Away",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Neutralizer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Resurrect",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Reflect",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Nullify",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Lucky Soul",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Blood Spirit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Skill Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Rebirth",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Angel's Tear",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Glory",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Reprise",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Spell Save",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Reducer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Rhythm",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Dash Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Item Master",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Pow Hammer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Auto-Aid",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Abiliity Plus",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Item Getter",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Item Rover",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Status Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Resilience",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Super Chain",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Rear Guard 2",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Conditional Guard",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Back Action",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Item Thrower",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Long Step",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "AD Magic End",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Fang Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Havoc Strike",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Raging Blast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Steel",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Fang Blade Havoc",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Fang Blade Rage",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Guardian",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Raging Havoc",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Rending Thrust",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Guardian Field",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Rending Fang Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Rending Havoc",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Rending Blast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Light Spear Cannon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Devil's Inferno",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Swallow Fury",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Sonic Thrust",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Demon Fist",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Lightning Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Slag Assault",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Luke's Sonic Blast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's First Aid",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Nightmare",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Pow Hammer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Invoke Elements",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Nocturnal Light",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Charge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Healing Circle",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Resurrection",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Severed Fate",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Eclair de Larmes",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Enhance Cast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Banishing Shadow",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Revitalize",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Holy Lance",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Grand Cross",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Forcefield",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Holy Song",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tear's Judgement",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Sonic Spear",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Energy Blast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Stalagmite",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Splash",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Thunder Lance",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Drain Magic",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Turbulance",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Flame Burst",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Impaling Heaven",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Ground Dasher",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Blessed Drops",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Sovereign Gale",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Thunder Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Infernal Prison",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Absolute",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Prism Sword",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade's Meteor Storm",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Demon Fang",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Crescent Strike",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Void Tempest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Center",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Moonlight Demon",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Guardian",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Demonic Void",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Tiger Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Demonic Tiger Blade",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Beast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Moonlight Tempest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's White Tiger Strike",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Severing Wind",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Nihil Blade Tempest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Sword Rain: Alpha",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Final Cross",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Tempest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guy's Soaring Light Spear",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Dragon Surge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Limited",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Dual Punishment",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Eagle Dive",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Dual Dragon Surge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Shadow Raid",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Negative Gate",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Shadow Punishment",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Mighty Charge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Guardian",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Shadow Tempest",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Cyclone Shot",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Miracle Hammer",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Soaring Blast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Bloody Howling",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Lucky",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Anise's Surge Breaker",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Piercing Lance",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Heal",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Storm's Edge",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Barrier",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Recover",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Aerial Laser",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Sharpness",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Resist",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Star Stroke",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Scare Shot",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Star Embrace",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Cure",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Cavalry",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Revive",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Gallant Barrage",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Natalia's Healing Force",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rice Ball",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spaghetti",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sandwich",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fried Chicken",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fried Rice",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ramen",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pizza",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salad",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Curry",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Soba Noodles",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cake",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Egg Bowl",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sushi",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Udon Noodles",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Toast",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Onion Soup",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gratin",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fruit Cocktail",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stew",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Miso Stew",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "King's Portrait",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keterburg Spa Pass",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Nectar Bottle",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Cowboy Hat",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Holy Seal",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Seal",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nebilim",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Holy Quelquati",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Heart of Chaos",
+      "category": [],
+      "progression": true
+    }
+  ]
+}
