@@ -155,5 +155,10 @@
   "Nam Cobana Isle": {
     "connects_to": [],
     "requires": "|Dark Wing Badge|"
+  },
+    "World Map": {
+    "starting": true,
+    "connects_to": ["Baticul", "Tataroo Valley", "Engave", "Cheagle Woods", "Fubras River", "Kaitzur", "Choral Castle", "Kaitzur Naval Port", "Chesedonia", "Abandoned Factory", "Desert Oasis", "Zao Ruins", "Yulia City", "Belkend", "Ortion Cave", "Aramis Spring", "Daath", "Oracle Headquarters", "Keterburg Bay", "Keterburg", "Theor Forest", "Port Sheridan", "Sheridan", "Meggiora Highlands", "Shurrey Hill", "Inista Marsh", "Grand Chokma", "Mt Zaleho", "Nam Cobana Isle", "Eldrant", "Radiation Gate", "Tower of Rem", "Isle of Feres", "Absorption Gate", "Mt Roneal"],
+    "requires": ""
   }
 }

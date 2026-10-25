@@ -6,7 +6,7 @@
       "victory": true,
       "category": [],
       "requires": "|Tear| AND |Tear's Pendant| AND |Sword of Lorelei| AND |Jewel of Lorelei|",
-      "region": "Eldrant"
+	  "region": "Eldrant"
     },
     {
       "name": "Fabre Manor Guy's Cabinet",
@@ -922,7 +922,7 @@
       "requires": ""
     },
     {
-      "name": "Zao Ruins Wing Bottle",
+      "name": "Zao Ruins Wing Bottle 2",
       "region": "Zao Ruins",
       "category": [],
       "requires": ""
@@ -1030,7 +1030,7 @@
       "requires": ""
     },
     {
-      "name": "Tataroo Valley Life Bottle",
+      "name": "Tataroo Valley Life Bottle 2",
       "region": "Tataroo Valley",
       "category": [],
       "requires": ""
@@ -1448,7 +1448,7 @@
       "requires": ""
     },
     {
-      "name": "Mt Zaleho Cobalt Chamber",
+      "name": "Mt Zaleho Cobalt Chamber 2",
       "region": "Mt Zaleho",
       "category": [],
       "requires": ""
@@ -1694,7 +1694,7 @@
       "requires": ""
     },
     {
-      "name": "Absorption Gate Carmine Chamber",
+      "name": "Absorption Gate Carmine Chamber 2",
       "region": "Absorption Gate",
       "category": [],
       "requires": ""
@@ -2369,12 +2369,6 @@
       "region": "Yulia City",
       "category": [],
       "requires": "|Tear|"
-    },
-    {
-      "name": "Daath Prelude",
-      "region": "Daath",
-      "category": [],
-      "requires": ""
     },
     {
       "name": "Daath Pizza",
@@ -3084,14 +3078,7 @@
       "requires": ""
     },
     {
-      "name": "Eldrant Unicorn Horn",
-      "region": "Eldrant",
-      "category": [],
-      "requires": ""
-    },
-    {
       "name": "Gelda Nebilim",
-      "victory": true,
       "category": [],
       "requires": "|Nebilim| AND |Lost Celesti| AND |Blood Pain| AND |Holy Quelquati| AND |Heart of Chaos| AND |Unicorn Horn|"
     }

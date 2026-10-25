@@ -2,12 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "count": "11",
-      "name": "Apple Gel",
-      "category": [],
-      "filler": true
-    },
-    {
       "count": 1,
       "name": "Tear",
       "category": [],
@@ -266,7 +260,7 @@
       "useful": true
     },
     {
-      "count": 1,
+      "count": "2",
       "name": "Nimble Rapier",
       "category": [],
       "useful": true
@@ -292,12 +286,6 @@
     {
       "count": 1,
       "name": "Silver Mail",
-      "category": [],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Nimble Rapier",
       "category": [],
       "useful": true
     },
@@ -386,7 +374,7 @@
       "useful": true
     },
     {
-      "count": 1,
+      "count": "2",
       "name": "Rebirth Doll",
       "category": [],
       "useful": true
@@ -818,7 +806,7 @@
       "useful": true
     },
     {
-      "count": 1,
+      "count": "2",
       "name": "Ancient Ribbon",
       "category": [],
       "useful": true
@@ -921,12 +909,6 @@
     },
     {
       "count": 1,
-      "name": "Rebirth Doll",
-      "category": [],
-      "useful": true
-    },
-    {
-      "count": 1,
       "name": "Ultimatus",
       "category": [],
       "useful": true
@@ -970,12 +952,6 @@
     {
       "count": 1,
       "name": "Elder Robe",
-      "category": [],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Ancient Ribbon",
       "category": [],
       "useful": true
     },
@@ -2259,12 +2235,6 @@
     },
     {
       "count": 1,
-      "name": "Spaghetti",
-      "category": [],
-      "useful": true
-    },
-    {
-      "count": 1,
       "name": "Sandwich",
       "category": [],
       "useful": true
@@ -2398,12 +2368,6 @@
     {
       "count": 1,
       "name": "Holy Seal",
-      "category": [],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Dark Seal",
       "category": [],
       "useful": true
     },
