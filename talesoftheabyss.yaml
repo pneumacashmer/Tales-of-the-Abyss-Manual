@@ -1,8 +1,8 @@
 name: WitchyMikiri
 description: Default template created by the Manual Builder tool
 
-game: Manual_talesoftheabyss_WitchyMikiri
+game: talesoftheabyss
 
-Manual_talesoftheabyss_WitchyMikiri:
+talesoftheabyss:
     progression_balancing: 50
     accessibility: items
